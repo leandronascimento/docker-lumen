@@ -26,7 +26,7 @@ Simple docker base to start a new project with [Lumen](https://github.com/larave
 
 * We using the [Makefile](https://www.gnu.org/software/make/manual/make.html) to automate the steps 
 
-This command will install hyperf/hyperf-skeleton project via Composer, you will need to answer some Hyperf questions and after that the packages will be installed
+This command will install Lumen project via Composer
 
 ```
 make create-project
