@@ -12,7 +12,7 @@
   <a href="https://www.php.net"><img src="https://img.shields.io/badge/php-8.0-brightgreen.svg?maxAge=2592000" alt="Php Version"></a>
 </p>
 
-# Docker Hyperf
+# Docker Lumen
 
 Simple docker base to start a new project with [Lumen](https://github.com/laravel/lumen) + [Mysql](https://www.mysql.com/)
 
